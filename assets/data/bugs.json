@@ -1,0 +1,1967 @@
+[
+    {
+        "id": 1,
+        "name": "Common butterfly",
+        "amt": 160,
+        "loc": "flying",
+        "rain": 0,
+        "desc": "",
+        "time": {
+            "n": [
+                {
+                    "t_in": 4,
+                    "t_out": 19,
+                    "m": [1,2,3,4,5,6,9,10,11,12]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 4,
+                    "t_out": 19,
+                    "m": [3,4,5,6,7,8,9,10,11,12]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 2,
+        "name": "Yellow butterfly",
+        "amt": 160,
+        "loc": "flying",
+        "rain": 0,
+        "desc": "",
+        "time": {
+            "n": [
+                {
+                    "t_in": 4,
+                    "t_out": 19,
+                    "m": [3,4,5,6,9,10]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 4,
+                    "t_out": 19,
+                    "m": [3,4,9,10,11,12]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 3,
+        "name": "Tiger butterfly",
+        "amt": 240,
+        "loc": "flying",
+        "rain": 0,
+        "desc": "",
+        "time": {
+            "n": [
+                {
+                    "t_in": 4,
+                    "t_out": 19,
+                    "m": [2,3,4,5,6,7,8]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 4,
+                    "t_out": 19,
+                    "m": [1,2,3,9,10,11,12]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 4,
+        "name": "Peacock butterfly",
+        "amt": 2500,
+        "loc": "flying",
+        "rain": 0,
+        "desc": "Near blue, purple, and black flowers",
+        "time": {
+            "n": [
+                {
+                    "t_in": 4,
+                    "t_out": 19,
+                    "m": [3,4,5,6]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 4,
+                    "t_out": 19,
+                    "m": [9,10,11,12]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 5,
+        "name": "Common bluebottle",
+        "amt": 300,
+        "loc": "flying",
+        "rain": 0,
+        "desc": "Near blue, purple, and black flowers",
+        "time": {
+            "n": [
+                {
+                    "t_in": 4,
+                    "t_out": 19,
+                    "m": [4,5,6,7,8]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 4,
+                    "t_out": 19,
+                    "m": [1,2,10,11,12]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 6,
+        "name": "Paper kite butterfly",
+        "amt": 1000,
+        "loc": "flying",
+        "rain": 0,
+        "desc": "Near flowers",
+        "time": {
+            "n": [
+                {
+                    "t_in": 8,
+                    "t_out": 19,
+                    "m": [1,2,3,4,5,6,7,8,9,10,11,12]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 8,
+                    "t_out": 19,
+                    "m": [1,2,3,4,5,6,7,8,9,10,11,12]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 7,
+        "name": "Great purple emperor",
+        "amt": 3000,
+        "loc": "flying",
+        "rain": 0,
+        "desc": "Near flowers",
+        "time": {
+            "n": [
+                {
+                    "t_in": 4,
+                    "t_out": 19,
+                    "m": [5,6,7,8]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 4,
+                    "t_out": 19,
+                    "m": [1,2,11,12]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 8,
+        "name": "Monarch butterfly",
+        "amt": 140,
+        "loc": "flying",
+        "rain": 0,
+        "desc": "Near flowers",
+        "time": {
+            "n": [
+                {
+                    "t_in": 4,
+                    "t_out": 17,
+                    "m": [9,10,11]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 4,
+                    "t_out": 17,
+                    "m": [3,4,5]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 9,
+        "name": "Emperor butterfly",
+        "amt": 4000,
+        "loc": "flying",
+        "rain": 0,
+        "desc": "Near flowers",
+        "time": {
+            "n": [
+                {
+                    "t_in": 17,
+                    "t_out": 8,
+                    "m": [1,2,3,6,7,8,9,12]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 17,
+                    "t_out": 8,
+                    "m": [1,2,3,6,7,8,9,12]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 10,
+        "name": "Agrias butterfly",
+        "amt": 3000,
+        "loc": "flying",
+        "rain": 0,
+        "desc": "Near flowers",
+        "time": {
+            "n": [
+                {
+                    "t_in": 8,
+                    "t_out": 17,
+                    "m": [4,5,6,7,8,9]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 8,
+                    "t_out": 17,
+                    "m": [1,2,3,10,11,12]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 11,
+        "name": "Rajah Brooke's birdwing",
+        "amt": 2500,
+        "loc": "flying",
+        "rain": 0,
+        "desc": "Near flowers",
+        "time": {
+            "n": [
+                {
+                    "t_in": 8,
+                    "t_out": 17,
+                    "m": [1,2,4,5,6,7,8,9,12]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 8,
+                    "t_out": 17,
+                    "m": [1,2,3,6,7,8,10,11,12]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 12,
+        "name": "Queen Alexandra's birdwing",
+        "amt": 4000,
+        "loc": "flying",
+        "rain": 0,
+        "desc": "Near flowers",
+        "time": {
+            "n": [
+                {
+                    "t_in": 8,
+                    "t_out": 16,
+                    "m": [5,6,7,8,9]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 8,
+                    "t_out": 16,
+                    "m": [1,2,3,11,12]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 13,
+        "name": "Moth",
+        "amt": 130,
+        "loc": "flying",
+        "rain": 0,
+        "desc": "Near light sources",
+        "time": {
+            "n": [
+                {
+                    "t_in": 19,
+                    "t_out": 4,
+                    "m": [1,2,3,4,5,6,7,8,9,10,11,12]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 19,
+                    "t_out": 4,
+                    "m": [1,2,3,4,5,6,7,8,9,10,11,12]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 14,
+        "name": "Atlas moth",
+        "amt": 3000,
+        "loc": "tree",
+        "rain": 2,
+        "desc": "Any kind",
+        "time": {
+            "n": [
+                {
+                    "t_in": 19,
+                    "t_out": 4,
+                    "m": [5,6,7,8,9]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 19,
+                    "t_out": 4,
+                    "m": [1,2,3,10,11,12]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 15,
+        "name": "Madagascan sunset moth",
+        "amt": 2500,
+        "loc": "flying",
+        "rain": 0,
+        "desc": "Near flowers",
+        "time": {
+            "n": [
+                {
+                    "t_in": 8,
+                    "t_out": 16,
+                    "m": [5,6,7,8,9]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 8,
+                    "t_out": 16,
+                    "m": [1,2,3,10,11,12]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 16,
+        "name": "Long locust",
+        "amt": 200,
+        "loc": "ground",
+        "rain": 2,
+        "desc": "",
+        "time": {
+            "n": [
+                {
+                    "t_in": 8,
+                    "t_out": 19,
+                    "m": [4,5,6,7,8,9,10,11]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 8,
+                    "t_out": 19,
+                    "m": [1,2,3,4,5,10,11,12]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 17,
+        "name": "Migratory locust",
+        "amt": 600,
+        "loc": "ground",
+        "rain": 2,
+        "desc": "",
+        "time": {
+            "n": [
+                {
+                    "t_in": 8,
+                    "t_out": 19,
+                    "m": [8,9,10,11]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 8,
+                    "t_out": 19,
+                    "m": [2,3,4,5]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 18,
+        "name": "Rice grasshopper",
+        "amt": 400,
+        "loc": "ground",
+        "rain": 2,
+        "desc": "",
+        "time": {
+            "n": [
+                {
+                    "t_in": 8,
+                    "t_out": 19,
+                    "m": [8,9,10,11]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 8,
+                    "t_out": 19,
+                    "m": [2,3,4,5]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 19,
+        "name": "Grasshopper",
+        "amt": 160,
+        "loc": "ground",
+        "rain": 0,
+        "desc": "",
+        "time": {
+            "n": [
+                {
+                    "t_in": 8,
+                    "t_out": 17,
+                    "m": [8,9,10,11]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 8,
+                    "t_out": 17,
+                    "m": [2,3,4,5]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 20,
+        "name": "Cricket",
+        "amt": 130,
+        "loc": "ground",
+        "rain": 0,
+        "desc": "",
+        "time": {
+            "n": [
+                {
+                    "t_in": 17,
+                    "t_out": 8,
+                    "m": [9,10,11]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 17,
+                    "t_out": 8,
+                    "m": [3,4,5]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 21,
+        "name": "Bell cricket",
+        "amt": 430,
+        "loc": "ground",
+        "rain": 0,
+        "desc": "",
+        "time": {
+            "n": [
+                {
+                    "t_in": 17,
+                    "t_out": 8,
+                    "m": [9,10]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 17,
+                    "t_out": 8,
+                    "m": [3,4]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 22,
+        "name": "Mantis",
+        "amt": 430,
+        "loc": "flower",
+        "desc": "",
+        "rain": 0,
+        "time": {
+            "n": [
+                {
+                    "t_in": 8,
+                    "t_out": 17,
+                    "m": [3,4,5,6,7,8,9,10,11]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 8,
+                    "t_out": 17,
+                    "m": [1,2,3,4,5,9,10,11,12]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 23,
+        "name": "Orchid mantis",
+        "amt": 2400,
+        "loc": "flower",
+        "desc": "White flowers",
+        "rain": 0,
+        "time": {
+            "n": [
+                {
+                    "t_in": 8,
+                    "t_out": 17,
+                    "m": [3,4,5,6,7,8,9,10,11]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 8,
+                    "t_out": 17,
+                    "m": [1,2,3,4,5,9,10,11,12]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 24,
+        "name": "Honeybee",
+        "amt": 200,
+        "loc": "flying",
+        "desc": "Near flowers",
+        "rain": 0,
+        "time": {
+            "n": [
+                {
+                    "t_in": 8,
+                    "t_out": 17,
+                    "m": [3,4,5,6,7]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 8,
+                    "t_out": 17,
+                    "m": [1,9,10,11,12]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 25,
+        "name": "Wasp",
+        "amt": 2500,
+        "loc": "tree",
+        "desc": "Shaking hardwood or cedar trees",
+        "rain": 2,
+        "time": {
+            "n": [
+                {
+                    "t_in": 0,
+                    "t_out": 24,
+                    "m": [1,2,3,4,5,6,7,8,9,10,11,12]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 0,
+                    "t_out": 24,
+                    "m": [1,2,3,4,5,6,7,8,9,10,11,12]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 26,
+        "name": "Brown cicada",
+        "amt": 250,
+        "loc": "tree",
+        "desc": "Hardwood and Cedar",
+        "rain": 2,
+        "time": {
+            "n": [
+                {
+                    "t_in": 8,
+                    "t_out": 17,
+                    "m": [7,8]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 8,
+                    "t_out": 17,
+                    "m": [1,2]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 27,
+        "name": "Robust cicada",
+        "amt": 300,
+        "loc": "tree",
+        "desc": "Hardwood and Cedar",
+        "rain": 2,
+        "time": {
+            "n": [
+                {
+                    "t_in": 8,
+                    "t_out": 17,
+                    "m": [7,8]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 8,
+                    "t_out": 17,
+                    "m": [1,2]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 28,
+        "name": "Giant cicada",
+        "amt": 500,
+        "loc": "tree",
+        "desc": "Hardwood and Cedar",
+        "rain": 2,
+        "time": {
+            "n": [
+                {
+                    "t_in": 8,
+                    "t_out": 17,
+                    "m": [7,8]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 8,
+                    "t_out": 17,
+                    "m": [1,2]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 29,
+        "name": "Walker cicada",
+        "amt": 400,
+        "loc": "tree",
+        "desc": "Hardwood and Cedar",
+        "rain": 2,
+        "time": {
+            "n": [
+                {
+                    "t_in": 8,
+                    "t_out": 17,
+                    "m": [8,9]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 8,
+                    "t_out": 17,
+                    "m": [2,3]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 30,
+        "name": "Evening cicada",
+        "amt": 550,
+        "loc": "tree",
+        "desc": "Hardwood and Cedar",
+        "rain": 2,
+        "time": {
+            "n": [
+                {
+                    "t_in": 4,
+                    "t_out": 8,
+                    "m": [7,8]
+                },
+                {
+                    "t_in": 16,
+                    "t_out": 19,
+                    "m": [7,8]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 4,
+                    "t_out": 8,
+                    "m": [1,2]
+                },
+                {
+                    "t_in": 16,
+                    "t_out": 19,
+                    "m": [1,2]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 31,
+        "name": "Cicada shell",
+        "amt": 10,
+        "loc": "tree",
+        "desc": "Hardwood and Cedar",
+        "rain": 2,
+        "time": {
+            "n": [
+                {
+                    "t_in": 8,
+                    "t_out": 17,
+                    "m": [7,8]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 8,
+                    "t_out": 17,
+                    "m": [1,2]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 32,
+        "name": "Red dragonfly",
+        "amt": 180,
+        "loc": "flying",
+        "desc": "Near water",
+        "rain": 0,
+        "time": {
+            "n": [
+                {
+                    "t_in": 8,
+                    "t_out": 19,
+                    "m": [9,10]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 8,
+                    "t_out": 19,
+                    "m": [3,4]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 33,
+        "name": "Darner dragonfly",
+        "amt": 230,
+        "loc": "flying",
+        "desc": "Near water",
+        "rain": 0,
+        "time": {
+            "n": [
+                {
+                    "t_in": 8,
+                    "t_out": 17,
+                    "m": [4,5,6,7,8,9,10]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 8,
+                    "t_out": 17,
+                    "m": [1,2,3,4,10,11,12]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 34,
+        "name": "Banded dragonfly",
+        "amt": 4500,
+        "loc": "flying",
+        "desc": "Near water",
+        "rain": 0,
+        "time": {
+            "n": [
+                {
+                    "t_in": 8,
+                    "t_out": 17,
+                    "m": [5,6,7,8,9,10]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 8,
+                    "t_out": 17,
+                    "m": [1,2,3,4,11,12]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 35,
+        "name": "Damselfly",
+        "amt": 500,
+        "loc": "flying",
+        "desc": "Near water",
+        "rain": 0,
+        "time": {
+            "n": [
+                {
+                    "t_in": 0,
+                    "t_out": 24,
+                    "m": [1,2,11,12]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 0,
+                    "t_out": 24,
+                    "m": [5,6,7,8]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 35,
+        "name": "Damselfly",
+        "amt": 500,
+        "loc": "flying",
+        "desc": "Near water",
+        "rain": 0,
+        "time": {
+            "n": [
+                {
+                    "t_in": 0,
+                    "t_out": 24,
+                    "m": [1,2,11,12]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 0,
+                    "t_out": 24,
+                    "m": [5,6,7,8]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 36,
+        "name": "Firefly",
+        "amt": 300,
+        "loc": "flying",
+        "desc": "Near water",
+        "rain": 0,
+        "time": {
+            "n": [
+                {
+                    "t_in": 19,
+                    "t_out": 4,
+                    "m": [6]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 19,
+                    "t_out": 4,
+                    "m": [12]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 37,
+        "name": "Mole cricket",
+        "amt": 500,
+        "loc": "underground",
+        "desc": "",
+        "rain": 2,
+        "time": {
+            "n": [
+                {
+                    "t_in": 0,
+                    "t_out": 24,
+                    "m": [1,2,3,4,5,11,12]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 0,
+                    "t_out": 24,
+                    "m": [5,6,7,8,9,10,11]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 38,
+        "name": "Pondskater",
+        "amt": 130,
+        "loc": "water",
+        "desc": "Rivers and Ponds",
+        "rain": 2,
+        "time": {
+            "n": [
+                {
+                    "t_in": 8,
+                    "t_out": 19,
+                    "m": [5,6,7,8,9]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 8,
+                    "t_out": 19,
+                    "m": [1,2,3,11,12]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 39,
+        "name": "Diving beetle",
+        "amt": 800,
+        "loc": "water",
+        "desc": "Rivers and Ponds",
+        "rain": 2,
+        "time": {
+            "n": [
+                {
+                    "t_in": 8,
+                    "t_out": 19,
+                    "m": [5,6,7,8,9]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 8,
+                    "t_out": 19,
+                    "m": [1,2,3,11,12]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 40,
+        "name": "Giant water bug",
+        "amt": 2000,
+        "loc": "water",
+        "desc": "Rivers and Ponds",
+        "rain": 2,
+        "time": {
+            "n": [
+                {
+                    "t_in": 8,
+                    "t_out": 19,
+                    "m": [4,5,6,7,8,9]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 8,
+                    "t_out": 19,
+                    "m": [1,2,3,10,11,12]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 41,
+        "name": "Stinkbug",
+        "amt": 120,
+        "loc": "flower",
+        "desc": "",
+        "rain": 0,
+        "time": {
+            "n": [
+                {
+                    "t_in": 8,
+                    "t_out": 19,
+                    "m": [3,4,5,6,7,8,9, 10]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 8,
+                    "t_out": 19,
+                    "m": [1,2,3,4,9,10,11,12]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 42,
+        "name": "Man-faced stink bug",
+        "amt": 1000,
+        "loc": "flower",
+        "desc": "",
+        "rain": 0,
+        "time": {
+            "n": [
+                {
+                    "t_in": 19,
+                    "t_out": 8,
+                    "m": [3,4,5,6,7,8,9, 10]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 19,
+                    "t_out": 8,
+                    "m": [1,2,3,4,9,10,11,12]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 43,
+        "name": "Ladybug",
+        "amt": 200,
+        "loc": "flower",
+        "desc": "",
+        "rain": 0,
+        "time": {
+            "n": [
+                {
+                    "t_in": 8,
+                    "t_out": 17,
+                    "m": [3,4,5,6,10]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 8,
+                    "t_out": 17,
+                    "m": [4,9,10,11,12]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 44,
+        "name": "Tiger beetle",
+        "amt": 1500,
+        "loc": "ground",
+        "desc": "",
+        "rain": 0,
+        "time": {
+            "n": [
+                {
+                    "t_in": 0,
+                    "t_out": 24,
+                    "m": [2,3,4,5,6,7,8,9,10]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 0,
+                    "t_out": 24,
+                    "m": [2,3,4,5,6,7,8,9,10]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 45,
+        "name": "Jewel Beetle",
+        "amt": 2400,
+        "loc": "tree stump",
+        "desc": "",
+        "rain": 0,
+        "time": {
+            "n": [
+                {
+                    "t_in": 0,
+                    "t_out": 24,
+                    "m": [4,5,6,7,8]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 0,
+                    "t_out": 24,
+                    "m": [1,2,10,11,12]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 46,
+        "name": "Violin Beetle",
+        "amt": 450,
+        "loc": "tree stump",
+        "desc": "",
+        "rain": 0,
+        "time": {
+            "n": [
+                {
+                    "t_in": 0,
+                    "t_out": 24,
+                    "m": [5,6,9,10,11]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 0,
+                    "t_out": 24,
+                    "m": [3,4,5,11,12]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 47,
+        "name": "Citrus long-horned beetle",
+        "amt": 350,
+        "loc": "tree stump",
+        "desc": "",
+        "rain": 0,
+        "time": {
+            "n": [
+                {
+                    "t_in": 0,
+                    "t_out": 24,
+                    "m": [1,2,3,4,5,6,7,8,9,10,11,12]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 0,
+                    "t_out": 24,
+                    "m": [1,2,3,4,5,6,7,8,9,10,11,12]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 48,
+        "name": "Rosalia Batesi Beetle",
+        "amt": 3000,
+        "loc": "tree stump",
+        "desc": "",
+        "rain": 0,
+        "time": {
+            "n": [
+                {
+                    "t_in": 0,
+                    "t_out": 24,
+                    "m": [5,6,7,8,9]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 0,
+                    "t_out": 24,
+                    "m": [1,2,3,11,12]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 49,
+        "name": "Blue weevil beetle",
+        "amt": 800,
+        "loc": "tree",
+        "desc": "Palm Tree",
+        "rain": 2,
+        "time": {
+            "n": [
+                {
+                    "t_in": 0,
+                    "t_out": 24,
+                    "m": [7,8]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 0,
+                    "t_out": 24,
+                    "m": [1,2]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 50,
+        "name": "Dung beetle",
+        "amt": 3000,
+        "loc": "ground",
+        "desc": "Pushing snowballs",
+        "rain": 2,
+        "time": {
+            "n": [
+                {
+                    "t_in": 0,
+                    "t_out": 24,
+                    "m": [1,2,12]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 0,
+                    "t_out": 24,
+                    "m": [6,7,8]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 51,
+        "name": "Earth-boring dung beetle",
+        "amt": 300,
+        "loc": "ground",
+        "desc": "",
+        "rain": 2,
+        "time": {
+            "n": [
+                {
+                    "t_in": 0,
+                    "t_out": 24,
+                    "m": [7,8,9]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 0,
+                    "t_out": 24,
+                    "m": [1,2,3]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 52,
+        "name": "Scarab Beetle",
+        "amt": 10000,
+        "loc": "tree",
+        "desc": "Any kind",
+        "rain": 2,
+        "time": {
+            "n": [
+                {
+                    "t_in": 23,
+                    "t_out": 8,
+                    "m": [7,8]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 23,
+                    "t_out": 8,
+                    "m": [1,2]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 53,
+        "name": "Drone beetle",
+        "amt": 200,
+        "loc": "tree",
+        "desc": "Any kind",
+        "rain": 2,
+        "time": {
+            "n": [
+                {
+                    "t_in": 0,
+                    "t_out": 24,
+                    "m": [6,7,8]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 0,
+                    "t_out": 24,
+                    "m": [1,2,12]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 54,
+        "name": "Goliath Beetle",
+        "amt": 8000,
+        "loc": "tree",
+        "desc": "Palm Tree",
+        "rain": 2,
+        "time": {
+            "n": [
+                {
+                    "t_in": 17,
+                    "t_out": 8,
+                    "m": [6,7,8,9]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 17,
+                    "t_out": 8,
+                    "m": [1,2,3,12]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 55,
+        "name": "Saw Stag",
+        "amt": 2000,
+        "loc": "tree",
+        "desc": "Any kind",
+        "rain": 2,
+        "time": {
+            "n": [
+                {
+                    "t_in": 0,
+                    "t_out": 24,
+                    "m": [7,8]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 0,
+                    "t_out": 24,
+                    "m": [1,2]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 56,
+        "name": "Miyama Stag",
+        "amt": 1000,
+        "loc": "tree",
+        "desc": "Any kind",
+        "rain": 2,
+        "time": {
+            "n": [
+                {
+                    "t_in": 0,
+                    "t_out": 24,
+                    "m": [7,8]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 0,
+                    "t_out": 24,
+                    "m": [1,2]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 57,
+        "name": "Giant stag",
+        "amt": 10000,
+        "loc": "tree",
+        "desc": "Any kind",
+        "rain": 2,
+        "time": {
+            "n": [
+                {
+                    "t_in": 23,
+                    "t_out": 8,
+                    "m": [7,8]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 23,
+                    "t_out": 8,
+                    "m": [1,2]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 58,
+        "name": "Rainbow Stag",
+        "amt": 6000,
+        "loc": "tree",
+        "desc": "Any kind",
+        "rain": 2,
+        "time": {
+            "n": [
+                {
+                    "t_in": 19,
+                    "t_out": 8,
+                    "m": [6,7,8,9]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 19,
+                    "t_out": 8,
+                    "m": [1,2,3,12]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 59,
+        "name": "Cyclommatus stag",
+        "amt": 8000,
+        "loc": "tree",
+        "desc": "Palm Tree",
+        "rain": 2,
+        "time": {
+            "n": [
+                {
+                    "t_in": 17,
+                    "t_out": 8,
+                    "m": [7,8]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 17,
+                    "t_out": 8,
+                    "m": [1,2]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 60,
+        "name": "Golden Stag",
+        "amt": 12000,
+        "loc": "tree",
+        "desc": "Palm Tree",
+        "rain": 2,
+        "time": {
+            "n": [
+                {
+                    "t_in": 17,
+                    "t_out": 8,
+                    "m": [7,8]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 17,
+                    "t_out": 8,
+                    "m": [1,2]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 61,
+        "name": "Giraffe Stag",
+        "amt": 12000,
+        "loc": "tree",
+        "desc": "Palm Tree",
+        "rain": 2,
+        "time": {
+            "n": [
+                {
+                    "t_in": 17,
+                    "t_out": 8,
+                    "m": [7,8]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 17,
+                    "t_out": 8,
+                    "m": [1,2]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 62,
+        "name": "Horned dynastid",
+        "amt": 1350,
+        "loc": "tree",
+        "desc": "Any kind",
+        "rain": 2,
+        "time": {
+            "n": [
+                {
+                    "t_in": 17,
+                    "t_out": 8,
+                    "m": [7,8]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 17,
+                    "t_out": 8,
+                    "m": [1,2]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 63,
+        "name": "Horned atlas",
+        "amt": 8000,
+        "loc": "tree",
+        "desc": "Palm Tree",
+        "rain": 2,
+        "time": {
+            "n": [
+                {
+                    "t_in": 17,
+                    "t_out": 8,
+                    "m": [7,8]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 17,
+                    "t_out": 8,
+                    "m": [1,2]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 64,
+        "name": "Horned elephant",
+        "amt": 8000,
+        "loc": "tree",
+        "desc": "Palm Tree",
+        "rain": 2,
+        "time": {
+            "n": [
+                {
+                    "t_in": 17,
+                    "t_out": 8,
+                    "m": [7,8]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 17,
+                    "t_out": 8,
+                    "m": [1,2]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 65,
+        "name": "Horned hercules",
+        "amt": 12000,
+        "loc": "tree",
+        "desc": "Palm Tree",
+        "rain": 2,
+        "time": {
+            "n": [
+                {
+                    "t_in": 17,
+                    "t_out": 8,
+                    "m": [7,8]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 17,
+                    "t_out": 8,
+                    "m": [1,2]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 66,
+        "name": "Walking stick",
+        "amt": 12000,
+        "loc": "tree",
+        "desc": "Any kind",
+        "rain": 2,
+        "time": {
+            "n": [
+                {
+                    "t_in": 4,
+                    "t_out": 8,
+                    "m": [7,8,9,10,11]
+                },
+                {
+                    "t_in": 17,
+                    "t_out": 19,
+                    "m": [7,8,9,10,11]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 4,
+                    "t_out": 8,
+                    "m": [1,2,3,4,5]
+                },
+                {
+                    "t_in": 17,
+                    "t_out": 19,
+                    "m": [1,2,3,4,5]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 67,
+        "name": "Walking leaf",
+        "amt": 600,
+        "loc": "ground",
+        "desc": "Disguised under trees",
+        "rain": 2,
+        "time": {
+            "n": [
+                {
+                    "t_in": 0,
+                    "t_out": 24,
+                    "m": [7,8,9]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 0,
+                    "t_out": 24,
+                    "m": [1,2,3]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 68,
+        "name": "Bagworm",
+        "amt": 600,
+        "loc": "tree",
+        "desc": "Shaking hardwood or cedar trees",
+        "rain": 2,
+        "time": {
+            "n": [
+                {
+                    "t_in": 0,
+                    "t_out": 24,
+                    "m": [1,2,3,4,5,6,7,8,9,10,11,12]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 0,
+                    "t_out": 24,
+                    "m": [1,2,3,4,5,6,7,8,9,10,11,12]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 69,
+        "name": "Ant",
+        "amt": 80,
+        "loc": "ground",
+        "desc": "On spoiled turnips/candy/lollipops",
+        "rain": 2,
+        "time": {
+            "n": [
+                {
+                    "t_in": 0,
+                    "t_out": 24,
+                    "m": [1,2,3,4,5,6,7,8,9,10,11,12]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 0,
+                    "t_out": 24,
+                    "m": [1,2,3,4,5,6,7,8,9,10,11,12]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 70,
+        "name": "Hermit crab",
+        "amt": 1000,
+        "loc": "shoreline",
+        "desc": "Disguised on shoreline",
+        "rain": 2,
+        "time": {
+            "n": [
+                {
+                    "t_in": 19,
+                    "t_out": 8,
+                    "m": [1,2,3,4,5,6,7,8,9,10,11,12]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 19,
+                    "t_out": 8,
+                    "m": [1,2,3,4,5,6,7,8,9,10,11,12]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 71,
+        "name": "Wharf roach",
+        "amt": 200,
+        "loc": "beach rock",
+        "desc": "",
+        "rain": 2,
+        "time": {
+            "n": [
+                {
+                    "t_in": 0,
+                    "t_out": 24,
+                    "m": [1,2,3,4,5,6,7,8,9,10,11,12]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 0,
+                    "t_out": 24,
+                    "m": [1,2,3,4,5,6,7,8,9,10,11,12]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 72,
+        "name": "Fly",
+        "amt": 60,
+        "loc": "flying",
+        "desc": "Near trash or rotten turnips",
+        "rain": 2,
+        "time": {
+            "n": [
+                {
+                    "t_in": 0,
+                    "t_out": 24,
+                    "m": [1,2,3,4,5,6,7,8,9,10,11,12]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 0,
+                    "t_out": 24,
+                    "m": [1,2,3,4,5,6,7,8,9,10,11,12]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 73,
+        "name": "Mosquito",
+        "amt": 130,
+        "loc": "flying",
+        "desc": "",
+        "rain": 0,
+        "time": {
+            "n": [
+                {
+                    "t_in": 17,
+                    "t_out": 4,
+                    "m": [6,7,8,9]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 17,
+                    "t_out": 4,
+                    "m": [1,2,3,12]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 74,
+        "name": "Flea",
+        "amt": 70,
+        "loc": "villager",
+        "desc": "On villager",
+        "rain": 2,
+        "time": {
+            "n": [
+                {
+                    "t_in": 0,
+                    "t_out": 24,
+                    "m": [4,5,6,7,8,9,10,11]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 0,
+                    "t_out": 24,
+                    "m": [1,2,3,4,5,10,11,12]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 75,
+        "name": "Snail",
+        "amt": 250,
+        "loc": "ground",
+        "desc": "Rocks and Bushes",
+        "rain": 1,
+        "time": {
+            "n": [
+                {
+                    "t_in": 0,
+                    "t_out": 24,
+                    "m": [1,2,3,4,5,6,7,8,9,10,11,12]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 0,
+                    "t_out": 24,
+                    "m": [1,2,3,4,5,6,7,8,9,10,11,12]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 76,
+        "name": "Pill bug",
+        "amt": 250,
+        "loc": "ground",
+        "desc": "From hitting rocks",
+        "rain": 2,
+        "time": {
+            "n": [
+                {
+                    "t_in": 23,
+                    "t_out": 16,
+                    "m": [1,2,3,4,5,6,9,10,11,12]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 23,
+                    "t_out": 16,
+                    "m": [3,4,5,6,7,8,9,10,11,12]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 77,
+        "name": "Centipede",
+        "amt": 300,
+        "loc": "ground",
+        "desc": "From hitting rocks",
+        "rain": 2,
+        "time": {
+            "n": [
+                {
+                    "t_in": 16,
+                    "t_out": 23,
+                    "m": [1,2,3,4,5,6,9,10,11,12]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 16,
+                    "t_out": 23,
+                    "m": [3,4,5,6,7,8,9,10,11,12]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 78,
+        "name": "Spider",
+        "amt": 600,
+        "loc": "tree",
+        "desc": "From shaking tree",
+        "rain": 2,
+        "time": {
+            "n": [
+                {
+                    "t_in": 19,
+                    "t_out": 8,
+                    "m": [1,2,3,4,5,6,9,10,11,12]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 19,
+                    "t_out": 8,
+                    "m": [3,4,5,6,7,8,9,10,11,12]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 79,
+        "name": "Tarantula",
+        "amt": 8000,
+        "loc": "ground",
+        "desc": "",
+        "rain": 2,
+        "time": {
+            "n": [
+                {
+                    "t_in": 19,
+                    "t_out": 4,
+                    "m": [1,2,3,4,11,12]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 19,
+                    "t_out": 4,
+                    "m": [5,6,7,8,9,10]
+                }
+            ]
+        }
+    }
+    ,{
+        "id": 80,
+        "name": "Scorpion",
+        "amt": 8000,
+        "loc": "ground",
+        "desc": "",
+        "rain": 2,
+        "time": {
+            "n": [
+                {
+                    "t_in": 19,
+                    "t_out": 4,
+                    "m": [5,6,7,8,9,10]
+                }
+            ],
+            "s": [
+                {
+                    "t_in": 19,
+                    "t_out": 4,
+                    "m": [1,2,3,4,11,12]
+                }
+            ]
+        }
+    }
+]
+
