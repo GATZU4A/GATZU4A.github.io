@@ -850,30 +850,6 @@
         }
     }
     ,{
-        "id": 35,
-        "name": "Damselfly",
-        "amt": 500,
-        "loc": "flying",
-        "desc": "Near water",
-        "rain": 0,
-        "time": {
-            "n": [
-                {
-                    "t_in": 0,
-                    "t_out": 24,
-                    "m": [1,2,11,12]
-                }
-            ],
-            "s": [
-                {
-                    "t_in": 0,
-                    "t_out": 24,
-                    "m": [5,6,7,8]
-                }
-            ]
-        }
-    }
-    ,{
         "id": 36,
         "name": "Firefly",
         "amt": 300,
